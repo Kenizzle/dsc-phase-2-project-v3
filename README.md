@@ -237,5 +237,5 @@ Based on the findings, here are **data-driven suggestions** for filmmakers, stud
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Love-Reen/dsc-phase-2-project-v3.git
+   git clone https://github.com/Kenizzle/dsc-phase-2-project-v3.git
    cd dsc-phase-2-project-v3
